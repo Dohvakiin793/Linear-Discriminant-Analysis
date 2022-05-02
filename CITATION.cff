@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Moosavi"
+  given-names: "Syed Kumayl Raza"
+- family-names: "Laghari"
+  given-names: "Mutahir Ali"
+title: "Linear Discriminant Analysis – A dimensionality reduction technique for Big Data"
+version: 2.0.0
+date-released: 2022-5-3
+url: "https://github.com/Dohvakiin793/Linear-Discriminant-Analysis"
